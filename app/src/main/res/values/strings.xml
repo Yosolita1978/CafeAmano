@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Café Amano</string>
+    <string name="direccion">Dirección</string>
+    <string name="horarios">Horarios</string>
+    <string name="informacion">Información</string>
+
+    <string name="dir">Patricio Sanz 1102 \nCol. del Valle Centro \n03100 Ciudad de México, \nCDMX </string>
+    <string name="horario">lun.	09:00 - 19:00 \nmar.	09:00 - 19:00 \nmié.	09:00 - 19:00 \njue.	09:00 - 19:00 \nvie.	09:00 - 19:00 \nsáb.	12:00 - 19:00
+dom \nCerrado</string>
+
+    <string name="info"> Creado en Enero de 1996 \nTransporte Público:   Metrobus Ciudad de los Deportes \nTeléfono: 55361209</string>
+</resources>
